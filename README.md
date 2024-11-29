@@ -66,7 +66,7 @@ Build libraries
 
 ### Run in your local
 
-- `git clone https://github.com/sadanandpai/algo-visualizers.git`
+- `git clone https://github.com/lightning-mcqueen01/sorting-visualizers.git`
 - `cd algo-visualizers`
 - `npm install`
 - `npm run dev`
