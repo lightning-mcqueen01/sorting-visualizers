@@ -1,6 +1,6 @@
 {
-  "name": "sorting-visualizers",
   "homepage": "https://lightning-mcqueen01.github.io/sorting-visualizers",
+  "name": "sorting-visualizers",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
